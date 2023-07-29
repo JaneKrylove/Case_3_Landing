@@ -141,7 +141,7 @@ header {
 
 .cond {
   margin-top: 800px;
-  background: url(images/Image\ bg\ 3.png);
+  background: url(../images/Image\ bg\ 3.png);
   background-size: 150% 150%;
   background-position: 50% 70%;
   padding-bottom: 200px;
@@ -313,7 +313,7 @@ header {
   position: relative;
 }
 .order {
-  background: url("images/Eclipse.png");
+  background: url("../images/Eclipse.png");
   background-size: cover;
   background-size: 100% 100%;
 }
